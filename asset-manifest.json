@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iamraziv/test-app.git/static/css/main.5463fab5.css",
-    "main.js": "/iamraziv/test-app.git/static/js/main.cee2a29a.js",
-    "static/media/roboto.light.ttf": "/iamraziv/test-app.git/static/media/roboto.light.7cedccda2feb66b96d7a.ttf",
-    "static/media/user.png": "/iamraziv/test-app.git/static/media/user.6853d2d109efe5dd423a.png",
-    "index.html": "/iamraziv/test-app.git/index.html",
-    "main.5463fab5.css.map": "/iamraziv/test-app.git/static/css/main.5463fab5.css.map",
-    "main.cee2a29a.js.map": "/iamraziv/test-app.git/static/js/main.cee2a29a.js.map"
+    "main.css": "/test-app.git/static/css/main.425dc74a.css",
+    "main.js": "/test-app.git/static/js/main.2a586a12.js",
+    "static/media/roboto.light.ttf": "/test-app.git/static/media/roboto.light.7cedccda2feb66b96d7a.ttf",
+    "static/media/user.png": "/test-app.git/static/media/user.6853d2d109efe5dd423a.png",
+    "index.html": "/test-app.git/index.html",
+    "main.425dc74a.css.map": "/test-app.git/static/css/main.425dc74a.css.map",
+    "main.2a586a12.js.map": "/test-app.git/static/js/main.2a586a12.js.map"
   },
   "entrypoints": [
-    "static/css/main.5463fab5.css",
-    "static/js/main.cee2a29a.js"
+    "static/css/main.425dc74a.css",
+    "static/js/main.2a586a12.js"
   ]
 }
