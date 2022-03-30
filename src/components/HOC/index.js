@@ -34,6 +34,7 @@ const HOC = (WrappedComponent, entity) => {
                      const { title } = d;   
                      return title.toLowerCase().indexOf(term) >= 0 
                 }
+                return false;
             })
             return(
                 <>
