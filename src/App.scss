@@ -1,0 +1,25 @@
+@import './common/color.scss';
+@font-face {
+	font-family: 'Roboto-light';
+  src:  url('./common/fonts/roboto.light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto-light', 'Sans-Serif';
+}
+
+a{
+  text-decoration: none;
+}
+body{
+  background: $primary-color;
+}
+.container{
+  margin: 0 40px;
+  max-width: 1400px;
+}

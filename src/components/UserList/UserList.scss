@@ -1,0 +1,8 @@
+@import '../../common/color.scss';
+.users{
+    color: $font-primary;
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+}

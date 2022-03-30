@@ -1,0 +1,40 @@
+@import '../../common/color.scss';
+
+.header{
+    background-color: $secondary-color;
+    height: 72px;
+    padding: 10px 30px;
+    // display: flex;
+    // align-items: center;
+    // justify-content: space-between;
+}
+.logo{
+    color: $font-primary;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.user-image
+  {
+    position: absolute;
+    margin-left: 22px;
+    border: 1px solid #CCC;
+    border-radius: 50%;
+    margin-top: -19px;
+    img{
+        width: 60px;
+        height: 60px;
+    }
+}
+
+.search-button{
+    position: absolute;
+    margin-left: 288px;
+    margin-top: -54px;
+}
+.user-list{
+    position: absolute;
+    margin-left: 132px;
+    color: #fff;
+    margin-top: 7px;
+}
