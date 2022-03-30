@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test-app.git/static/css/main.425dc74a.css",
-    "main.js": "/test-app.git/static/js/main.2a586a12.js",
-    "static/media/roboto.light.ttf": "/test-app.git/static/media/roboto.light.7cedccda2feb66b96d7a.ttf",
-    "static/media/user.png": "/test-app.git/static/media/user.6853d2d109efe5dd423a.png",
-    "index.html": "/test-app.git/index.html",
-    "main.425dc74a.css.map": "/test-app.git/static/css/main.425dc74a.css.map",
-    "main.2a586a12.js.map": "/test-app.git/static/js/main.2a586a12.js.map"
+    "main.css": "/test-app/static/css/main.83195755.css",
+    "main.js": "/test-app/static/js/main.68173d35.js",
+    "static/media/roboto.light.ttf": "/test-app/static/media/roboto.light.7cedccda2feb66b96d7a.ttf",
+    "static/media/user.png": "/test-app/static/media/user.6853d2d109efe5dd423a.png",
+    "index.html": "/test-app/index.html",
+    "main.83195755.css.map": "/test-app/static/css/main.83195755.css.map",
+    "main.68173d35.js.map": "/test-app/static/js/main.68173d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.425dc74a.css",
-    "static/js/main.2a586a12.js"
+    "static/css/main.83195755.css",
+    "static/js/main.68173d35.js"
   ]
 }
