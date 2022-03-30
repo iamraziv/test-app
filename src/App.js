@@ -57,6 +57,7 @@ function App() {
               <div className="container">
                 <Routes>
                     <Route path="/" element={<Home/>} />
+                    <Route path="/test-app" element={<Home/>} />
                     <Route path="/movie/:imdbID" element={<MovieDetails/>} />
                     <Route element={<PageNotFound />} />
                     {/* <Route path="/user" element={<UserList />} /> */}
