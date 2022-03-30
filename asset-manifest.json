@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamraziv/test-app.git/static/css/main.5463fab5.css",
+    "main.js": "/iamraziv/test-app.git/static/js/main.cee2a29a.js",
+    "static/media/roboto.light.ttf": "/iamraziv/test-app.git/static/media/roboto.light.7cedccda2feb66b96d7a.ttf",
+    "static/media/user.png": "/iamraziv/test-app.git/static/media/user.6853d2d109efe5dd423a.png",
+    "index.html": "/iamraziv/test-app.git/index.html",
+    "main.5463fab5.css.map": "/iamraziv/test-app.git/static/css/main.5463fab5.css.map",
+    "main.cee2a29a.js.map": "/iamraziv/test-app.git/static/js/main.cee2a29a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5463fab5.css",
+    "static/js/main.cee2a29a.js"
+  ]
+}
