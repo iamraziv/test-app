@@ -6,7 +6,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import { Container, Row, Col } from "react-bootstrap";
+// import { Container, Row, Col } from "react-bootstrap";
 // import Home from "./componentsFirebase/Home";
 // import Login from "./componentsFirebase/Login";
 // import Signup from "./componentsFirebase/Signup";
@@ -65,8 +65,8 @@ function App() {
               </div>  
           <Footer />      
         </BrowserRouter>
-        // {/* Product Project */}
-      // {/* <BrowserRouter>
+         {/* Product Project */}
+       {/* <BrowserRouter>
       // <Header />
       //       <Routes>
       //           <Route path="/" element={<ProductList/>} />

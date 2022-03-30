@@ -2,8 +2,6 @@ import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import user from '../../images/user.png';
 import { Form, Button, Row, Col } from "react-bootstrap";
-import Icon from '@mui/material/Icon';
-
 import './header.scss';
 import { useDispatch } from 'react-redux';
 import { fetchAsyncMovies, fetchAsyncSeries } from '../../features/movies/moviesSlice';
@@ -54,7 +52,7 @@ const Header = () => {
                 </Col>
                 <Col sm>
                 <div className="user-image">
-                    <img src={user} alt="User Image">
+                    <img src={user} alt="Profile">
 
                     </img>
                 </div>

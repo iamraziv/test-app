@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useParams } from 'react-router';
 import {getMovieorShowDetail, fetchAsyncMovieOrShowDetail, reset} from '../../features/movies/moviesSlice';
 import '../MovieDetails/movieDetails.scss';
-import Icon from '@mui/material/Icon';
 import { Rating } from '@mui/material';
 
 

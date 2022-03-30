@@ -1,6 +1,6 @@
-import React,{useState, useEffect} from 'react';
+import React from 'react';
 import './UserList.scss';
-import ToDoList from '../ToDoList/ToDoList';
+// import ToDoList from '../ToDoList/ToDoList';
 import HOC from '../HOC';
 const UserList = ({data}) => {
     // const [users, setUsers] = useState([]);
